@@ -1,5 +1,5 @@
-# Interview-Questions-Creator
-# How to run:
+# Chatbot Using Paid And Open Source LLM's using Langchain And Ollama
+
 # Create an environment
 conda create -n chatbot_ollama python=3.10 -y
 
